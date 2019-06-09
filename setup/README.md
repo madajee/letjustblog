@@ -1,4 +1,4 @@
-# Bootstrap Blog
+# Let Just Blog - Setup
 
 Build on the official Bootstrap blog starter template to learn WordPress.
 
