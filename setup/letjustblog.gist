@@ -1,0 +1,15 @@
+Current Directory : Setup folder in letjustblog repository.
+a) curl -O https://wordpress.org/latest.tar.gz
+b) tar xvf latest.tar.gz
+c) rm -rf latest.tar.gz
+d) cp wordpress/wp-config-sample.php wordpress/wp-config.php
+e) mkdir wordpress/wp-content/upgrade
+f) curl -s https://api.wordpress.org/secret-key/1.1/salt/
+g) Create Database and DB user using MAMP PhpMyAdmin tool
+Database: wordpress
+DB User: wordpressuser, Password: your own password
+h) Change Document Root to wordpress directory in letjustblog repository instead of default htdocs
+(Applications/MAMP/htdocs) 
+i) Go through the web install of wordpress.
+Sitename: letjustblogwordpress
+User: wordpressuser

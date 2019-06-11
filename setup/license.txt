@@ -1,0 +1,2 @@
+- GNU GENERAL PUBLIC LICENSE
+- Please read the License Terms in file "LICENSE-BradHussey", as theme design template is based on his course.
