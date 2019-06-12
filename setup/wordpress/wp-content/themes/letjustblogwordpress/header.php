@@ -31,7 +31,7 @@
 <header class="site-header" role="banner">
 <nav class="navbar navbar-custom navbar-expand-sm navbar-dark">
   <div class="container-fluid">
-      <a href="index.html" class="navbar-brand right"><img width="30" height="30" class="align-top mr-3" src="https://s3.amazonaws.com/profileappv1/assets/img/profileappv1_logo.png" alt="letjustblog">Let's Just Blog</a>
+      <a href="home" class="navbar-brand right"><img width="30" height="30" class="align-top mr-3" src="https://s3.amazonaws.com/profileappv1/assets/img/profileappv1_logo.png" alt="letjustblog">Let's Just Blog</a>
       <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
         <span class="navbar-toggler-icon"></span>
 	  </button>
@@ -39,18 +39,18 @@
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a href="blog.html" class="nav-link">Blog</a>
+            <a href="blog" class="nav-link">Blog</a>
           </li>
         </ul>
         <ul class="navbar-nav ml-auto">
           <li class="nav-item left active">
-            <a href="home-page" class="nav-link">Home</a>
+            <a href="home" class="nav-link">Home</a>
           </li>
           <li class="nav-item">
-            <a href="resources.html" class="nav-link">Resources</a>
+            <a href="resources" class="nav-link">Resources</a>
           </li>
           <li class="nav-item">
-            <a href="contact.html" class="nav-link">Contact</a>
+            <a href="contact" class="nav-link">Contact</a>
           </li>
         </ul>
       </div>
