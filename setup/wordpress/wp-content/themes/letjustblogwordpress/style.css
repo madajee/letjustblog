@@ -523,7 +523,7 @@ a.text-danger:hover {
 	color: #e55939;
 }
 .modal-content{
-	background: url('../img/tile.jpg') top left repeat;
+	background: url('/wp-content/themes/letjustblogwordpress/assets/img/tile.jpg') top left repeat;
 }
 
 .badge.social {
@@ -590,12 +590,12 @@ section.main-content {
 }
 
 .feature-image-default {
-	background: url('../img/stuff-feature.jpg') no-repeat;
+	background: url('/wp-content/themes/letjustblogwordpress/assets/img/stuff-feature.jpg') no-repeat;
 	background-size: cover;
 }
 
 .feature-image-default-alt {
-	background: url('../img/hipster-stuff.jpg') no-repeat;
+	background: url('/wp-content/themes/letjustblogwordpress/assets/img/hipster-stuff.jpg') no-repeat;
 	background-size: cover;
 }
 
@@ -688,7 +688,7 @@ form textarea {
 /* ==== HERO ==== */
 
 #hero {
-	background: url('../img/hero-bg.jpg') 50% 0 repeat fixed;
+	background: url('/wp-content/themes/letjustblogwordpress/assets/img/hero-bg.jpg') 50% 0 repeat fixed;
 	min-height: 500px;
 	position: relative;
 	display: table;
@@ -789,7 +789,7 @@ i.ci {
 	display: inline-block;
 	height: 40px;
 	width: 40px;
-	background: url('../img/icon-sprite.png') no-repeat;
+	background: url('/wp-content/themes/letjustblogwordpress/assets/img/icon-sprite.png') no-repeat;
 }
 
 .ci.ci-computer 	{ background-position: 0 0; }
@@ -805,7 +805,7 @@ i.ci {
 }
 
 #featurette {
-	background: url('../img/stuff-bg.jpg') 50% 100% repeat fixed;
+	background: url('/wp-content/themes/letjustblogwordpress/assets/img/stuff-bg.jpg') 50% 100% repeat fixed;
 	background-size: cover;
 	text-align: center;
 	color: white;
@@ -813,7 +813,7 @@ i.ci {
 
 /* ==== INSTRUCTOR ==== */
 #instructor {
-	background: white url('../img/brad-elvis.png') 90% -10px no-repeat;
+	background: white url('/wp-content/themes/letjustblogwordpress/assets/img/brad-elvis.png') 90% -10px no-repeat;
 }
 #instructor h2 {
 	margin: 0 0 20px;
@@ -863,7 +863,7 @@ i.ci {
 /* ==== SIGNUP ==== */
 #signup {
 	text-align: center;
-	background: url('../img/hipster-stuff.jpg') center center repeat fixed;
+	background: url('/wp-content/themes/letjustblogwordpress/assets/img/hipster-stuff.jpg') center center repeat fixed;
 	background-size: cover;
 	color: white;
 	padding: 140px 0;
